@@ -1,14 +1,23 @@
-## Olá, seja bem-vinda(o) ao meu Github!
+# Oficina Primeiros Passos com Git e GitHub
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisetevidotti/)](https://www.linkedin.com/in/elisetevidotti/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:liz.vidotti@gmail.com/)
+## Objetivo
 
-<p align="center">
-  <img src="https://github.com/lizvidotti91/lizvidotti91/blob/master/download20200803213122.png?raw=true" width="350" title="hover text">
-</p>
+* Oficina ministrada no dia 11 de novembro de 2020, com a turma do segundo semestre do Curso Técnico de Desenvolvimento de Sistemas do SENAI BA, turno vespertino; 
+* Essa oficina tem como objetivo a introdução dos conceitos principais de Git e GitHub, além da linguagem de marcação MarkDown; 
 
-Escrevam um pouco sobre vocês! 
+## Especificações
 
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizvidotti91&hide=html&layout=compact&theme=radical" />
-  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=lizvidotti91&theme=radical&show_icons=true" />
-</p>
+* Primeira parte teórica, com exposição de slides sobre os conceitos principais de Git e GitHub; 
+* Segunda parte prática, com construção do `Quem sou eu`, para o perfil do GitHub dos participantes; 
+
+## Tecnologias
+
+* Git for Windows; 
+* Terminal Git Bash no VS Code; 
+* MarkDown; 
+
+## Autora
+
+| Foto                                       | Nome        | GitHub                                         | Likedin                                                 | E-mail                |
+| ------------------------------------------ | ----------- | ---------------------------------------------- | ------------------------------------------------------- | --------------------- |
+| <img src="./img/perfil.png" width="100px"> | Liz Vidotti | [Liz Vidotti](https://github.com/lizvidotti91) | [Linkedin](https://www.linkedin.com/in/elisetevidotti/) | liz.vidotti@gmail.com |
