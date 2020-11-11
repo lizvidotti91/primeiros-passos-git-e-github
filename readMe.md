@@ -20,11 +20,13 @@
 
 * [Slides sobre Git e GitHub](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/Primeiros%20Passos%20com%20o%20Github.pdf); 
 
-## Links Interessantes no GitHub
+## Links Interessantes
 
 * [VdeMario - oficina-git](https://github.com/vdemario/oficina-git); 
 * [Licenças do Github](https://github.com/webfatorial/escolhaumalicenca.com.br); 
-* [Me42th - markdown-cheatsheet](https://github.com/me42th/markdown-cheatsheet); 
+* [Me42th - markdown-cheatsheet](https://github.com/me42th/markdown-cheatsheet);
+- [Guia Básico de MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open);
+- [Rust Programming Language - Documentação](https://doc.rust-lang.org/book/)
 
 ## Autora
 
