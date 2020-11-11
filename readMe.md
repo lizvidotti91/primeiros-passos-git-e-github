@@ -16,6 +16,16 @@
 * Terminal Git Bash no VS Code; 
 * MarkDown; 
 
+## Material da Aula
+
+* [Slides sobre Git e GitHub](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/Primeiros%20Passos%20com%20o%20Github.pdf); 
+
+## Links Interessantes no GitHub
+
+* [VdeMario - oficina-git](https://github.com/vdemario/oficina-git); 
+* [Licenças do Github](https://github.com/webfatorial/escolhaumalicenca.com.br); 
+* [Me42th - markdown-cheatsheet](https://github.com/me42th/markdown-cheatsheet); 
+
 ## Autora
 
 | Foto                                       | Nome        | GitHub                                         | Likedin                                                 | E-mail                |
