@@ -27,6 +27,7 @@
 * [Me42th - markdown-cheatsheet](https://github.com/me42th/markdown-cheatsheet);
 - [Guia Básico de MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open);
 - [Rust Programming Language - Documentação](https://doc.rust-lang.org/book/)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=emb_title)
 
 ## Autora
 
