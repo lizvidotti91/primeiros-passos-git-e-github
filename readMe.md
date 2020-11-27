@@ -28,6 +28,7 @@
 - [Guia Básico de MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open);
 - [Rust Programming Language - Documentação](https://doc.rust-lang.org/book/)
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=emb_title)
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## Autora
 
