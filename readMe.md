@@ -3,6 +3,7 @@
 ## Objetivo
 
 * Oficina ministrada no dia 11 de novembro de 2020, com a turma do segundo semestre do Curso Técnico de Desenvolvimento de Sistemas do SENAI BA, turno vespertino; 
+* Oficina ministrada no dia 27/11/2020 no evento Mundo SENAI, oferecido pelo SENAI BA, na modalidade remoto; 
 * Essa oficina tem como objetivo a introdução dos conceitos principais de Git e GitHub, além da linguagem de marcação MarkDown; 
 
 ## Especificações
@@ -18,7 +19,8 @@
 
 ## Material da Aula
 
-* [Slides sobre Git e GitHub](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/Primeiros%20Passos%20com%20o%20Github.pdf); 
+* [Slides sobre Git e GitHub - Aula de IHC](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/Primeiros%20Passos%20com%20o%20Github.pdf); 
+* [Slides sobre Git e GitHub - Mundo SENAI BA](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/Primeiros%20Passos%20com%20o%20Github.pdf); 
 
 ## Links Interessantes no GitHub
 
