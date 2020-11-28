@@ -19,18 +19,18 @@
 
 ## Material da Aula
 
-* [Slides sobre Git e GitHub - Aula de IHC](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/Primeiros%20Passos%20com%20o%20Github.pdf); 
-* [Slides sobre Git e GitHub - Mundo SENAI BA](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/Primeiros%20Passos%20com%20o%20Github.pdf); 
+* [Slides sobre Git e GitHub - Aula de IHC](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/ihc-senai-ba/Primeiros%20Passos%20com%20o%20Github.pdf); 
+* [Slides sobre Git e GitHub - Mundo SENAI BA](https://github.com/lizvidotti91/primeiros-passos-git-e-github/blob/main/mundo-senai/Primeiros%20Passos%20com%20o%20Github-%20Mundo%20SENAI.pdf); 
 
 ## Links Interessantes
 
 * [VdeMario - oficina-git](https://github.com/vdemario/oficina-git); 
 * [Licenças do Github](https://github.com/webfatorial/escolhaumalicenca.com.br); 
-* [Me42th - markdown-cheatsheet](https://github.com/me42th/markdown-cheatsheet);
-- [Guia Básico de MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open);
-- [Rust Programming Language - Documentação](https://doc.rust-lang.org/book/)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=emb_title)
-- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+* [Me42th - markdown-cheatsheet](https://github.com/me42th/markdown-cheatsheet); 
+* [Guia Básico de MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open); 
+* [Rust Programming Language - Documentação](https://doc.rust-lang.org/book/)
+* [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=emb_title)
+* [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## Autora
 
