@@ -24,6 +24,7 @@
 
 ## Links Interessantes
 
+- [Git E GitHub para Sobrevivência - DevSoutinho](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6);
 * [VdeMario - oficina-git](https://github.com/vdemario/oficina-git); 
 * [Licenças do Github](https://github.com/webfatorial/escolhaumalicenca.com.br); 
 * [Me42th - markdown-cheatsheet](https://github.com/me42th/markdown-cheatsheet); 
