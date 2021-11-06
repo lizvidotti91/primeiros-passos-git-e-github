@@ -4,7 +4,7 @@ Este modelo pode ser usado como inspiração para a criação do Quem Sou Eu no 
 
 Além das imagens deste modelo, você pode encontrar mais modelos 
 
-![Neste Link](https://dev.to/envoy_/150-badges-for-github-pnk). Existem muitos editores online para MarkDown disponíveis na internet. Eu usei![Este aqui](https://pandao.github.io/editor.md/en.html)
+[Neste Link](https://dev.to/envoy_/150-badges-for-github-pnk). Existem muitos editores online para MarkDown disponíveis na internet. Eu usei[Este aqui](https://pandao.github.io/editor.md/en.html)
 
 ------------
 
